@@ -6,5 +6,7 @@ public class User {
 
     // I'm a dev, working on project
 
+    // User class completed
+
 
 }
